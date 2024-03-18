@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 배준성입니다 👋
 
 <!--
 **GV2321/GV2321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
